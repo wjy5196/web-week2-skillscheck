@@ -8,7 +8,8 @@ const poemContentThree = document.getElementById('poem-content-three')
 
 if (lovesCode === true) {
   document.body.style.backgroundColor = '#ceffef'
-} else {
+} 
+else {
   document.body.style.backgroundColor = '#ffb9ac'
 }
 
